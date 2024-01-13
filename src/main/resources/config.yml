@@ -1,0 +1,8 @@
+commands:
+  '1':
+    name: "/test"
+    permission: "perm"
+    execute: "say hello!"
+  '2':
+    name: "/noperm"
+    execute: "say no perm!"
